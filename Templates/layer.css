@@ -1,0 +1,152 @@
+#content{width: 950px;}
+#content #main #text {
+	padding-right: 8px;
+	padding-left: 8px;
+}
+#content #main #text #p a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#content #main #text #h2 a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#content #main #text #h1 a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#layer ul li:hover a {
+	background-color: #FFCCFF;
+	width: px;
+}
+#layer {
+	float: right;
+	width: 326px;
+	padding-top: 0px;
+	font-size: 18px;
+	border-top: 0px none;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+	color: #fff
+}
+#layer li {
+	width: 300px;
+}
+#main {
+	font-weight: normal;
+	float: left;
+	width: 580px;
+	font-size: 18px;
+	line-height: 26px;
+	font-family: "";
+	display: table-cell;
+	padding-left: 10px;
+     color: #ffffff
+	border: 1px dashed #CCCCCC;
+}
+#main ul li{
+	float: left;
+	width: 250px;
+}
+#main ul li:hover{
+	background-color: #FFCCFF;
+	width: px;
+}
+#main ul{
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: dotted;
+	border-left-style: dotted;
+	border-right-color: #FFCCFF;
+	border-left-color: #FFCCFF;
+}
+#layer2 {
+	font-weight: normal;
+	float: left;
+	width: 600px;
+	font-size: 18px;
+	line-height: 26px;
+	font-family: "";
+	display: table-cell;
+	padding-left: 10px;
+	border: 1px dashed #CCCCCC;
+}
+#layer2 ul li{
+	float: left;
+	width: 130px;
+}
+#layer2 ul li:hover{
+	background-color: #FFCCFF;
+	width: 130px;
+}
+#layer2 ul{
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: dotted;
+	border-left-style: dotted;
+	border-right-color: #FFCCFF;
+	border-left-color: #FFCCFF;
+}
+img {
+	border-style: none;
+}
+
+  .STYLE5 {font-size: 18px}
+  .STYLE6 {
+	font-size: 16px;
+	font-weight: bold;
+}
+#layerright ul li.current ul { display:block;}#content {
+	width: 950px;
+}
+#layer #sing{float: left;
+	width: 250px;}
+	
+#layer #sing #sl{	float: left;
+	width: 110px;}
+	#layer #sing #sr{	float: right;
+	width: 110px;}
+#layer #p a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#main #p a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#layer2 #p a:hover {
+	text-decoration: none;
+	color: #0000FF;
+ display:none;
+
+}
+#layerright #p a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#main #sing{float: left;
+	width: 250px;}
+	
+#main #sing #sl{	float: left;
+	width: 110px;}
+	#layer #sing #sr{	float: right;
+	width: 110px;}

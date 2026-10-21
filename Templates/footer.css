@@ -1,0 +1,159 @@
+body {
+	background-image: url(../images/beijing-1.gif);
+	
+	width: 950px;
+}
+	
+
+body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd {
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: normal;
+         color: #FFFFFF
+}
+
+a:hover {
+	color: #FF0000
+}
+a:visited {
+color: #0000FF
+ 
+}
+a{color: #87ceeb
+}
+
+
+
+
+
+#header {
+	width: 970px;
+}
+
+
+#daohang ul li {
+	float: left;
+	width: 110px;
+	font-family: "";
+	font-size: 22px;
+	color:#006600
+	font-weight: bold;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	list-style-type: none;
+	background-position: center center;
+	white-space: nowrap;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-left-style: dotted;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	display: block;
+	padding-top: 0px;
+		background-image: url(../images/anniufe4.gif);
+
+}
+#daohang {
+	width: 970px;
+	float: left;
+	height: 40px;
+}
+#daohang ul li a {width: 110px;display: block;}
+
+#daohang ul li ul {
+	position: absolute;
+	width: 110px;
+	float: none;
+	background-color: #FF99FF;
+	display: none;
+	top: 40px;
+}
+#daohang ul li:hover ul {
+	display: block;
+}
+#daohang ul li:hover ul li{
+	float: left;
+	width: 110px;
+	background-color: #FF99FF;
+	font-family: "ËÎÌו";
+	font-size: 16px;
+	font-weight: bold;
+	top: 40px;
+}
+#daohang ul li:hover {
+	display: block;
+	width: 110px;
+	background-color: #FFFFFF;
+	color: #FF0000;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+
+#daohang ul li li {
+	float: left;
+}
+
+#daohang ul li hover{
+	background-color: #FFFFFF;
+	height: 30px;
+	width: 113px;
+}
+
+#content {
+	width: 970px;
+    color: #ffffff
+}
+
+
+.clearfloat {clear:both;height:0;font-size: 1px;line-height: 0px;}
+
+
+
+
+
+
+#footer {
+	font-size: 12px;
+	line-height: 26px;
+	font-weight: normal;
+	float: left;
+	width: 950px;
+	    color: #ffffff
+	border: 1px dashed #CCCCCC;
+}
+#friendlink {
+	border: 1px dashed #CCCCCC;
+	list-style: none;
+	width: 950px;
+	font-size: 12px;
+	font-weight: normal;
+}
+#footer #wei {
+	float: left;
+	width: 950px;
+	font-size: 12px;
+}
+
+#footer #wei #p a:hover {
+	text-decoration: none;
+	color: #FF0000;
+ display:none;
+
+}
+#footer #wei p a {width: 150px;	float: left;}
+
+#friendlink ul li {
+	float: left;
+	width: 120px;
+	display: table;
+	font-size: 12px;
+}
+.clearfloat {clear:both;height:0;font-size: 1px;line-height: 0px;}
